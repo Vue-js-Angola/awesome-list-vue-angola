@@ -9,12 +9,12 @@ Welcome to Awesome Vue.js Angola !!! \
 We will keep here a selection of links that may be useful and interesting to you. \
 **Contributions are always welcome!**
 
-Redes Sociais:
-✔ Facebook: <https://www.facebook.com/Vue.jsAngola>
-✔ Wesite: soon... 😁
-✔ Github: <https://github.com/Vue-js-Angola>
+Redes Sociais: \
+✔ Facebook: <https://www.facebook.com/Vue.jsAngola> \
+✔ Wesite: soon... 😁 \
+✔ Github: <https://github.com/Vue-js-Angola> \
 
-Contact:
+Contact: \
 ✉ soon... 😂
 
 ## Content
