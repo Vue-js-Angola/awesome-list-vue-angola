@@ -1,78 +1,74 @@
 <div align="center">
-	<img  width="250" height="350" src="./awesome.png" alt="Awesome Beer & Code">
+	<img  width="250" height="350" src="./awesome.jpg" alt="Awesome Vue.js Angola">
 </div>
 <br/><br/>
-<p>Bem vindo(a) à Awesome List do Beer & Code!!!<br/>
-<i>Awesome</i> é um palavra do inglês que pode ser traduzida como "incrível", "demais", "maneiro" e por aí vai.  Vamos manter aqui uma seleção de links que podem ser úteis e interessantes pra você.<br/><br/>Contribuições sempre são bem vindas!</p>
+<p>Bem vindo(a) à Awesome Vue.js Angola!!!<br/>
+<i>Awesome Vue.js Angola</i> é um repositório criado com intuito de servir de referências para desenvolvedores Vue.js ou do nosso querido JavaScript. Vamos manter aqui uma seleção de links que podem ser úteis e interessantes pra você.<br/><br/>Contribuições sempre são bem vindas!</p>
 
 <p>
 Redes Sociais:
 <br/><br/>
-✔ Discord: https://discord.com/invite/mhyKFgv
+✔ Facebook: https://www.facebook.com/Vue.jsAngola
 <br/>
-✔ Twitter: https://twitter.com/beerandcodeyt/
-​<br/>
-✔ Instagram: https://www.instagram.com/beerandcode_oficial
+✔ Site: brevemente... 😁
 <br/>
-✔ Facebook: https://www.facebook.com/beerandcodeoficial/
-<br/>
-✔ Spotify: https://open.spotify.com/show/5xGXrAp97Ff9TZYgTYvdhL?si=TimdoZoOQvqzX7FeWHlT-A&nd=1
-​<br/>
-✔ Site: https://beerandcode.com.br/ 
-<br/>
-✔ Linktree: https://linktr.ee/beerandcode​
+✔ Github: https://github.com/Vue-js-Angola
 <br/>
 </p>
 
 Contato:
-✉ contato@beerandcode.com.br
+✉ brevemente... 😂
 ## Lista
 
-- [Iniciando com PHP](#iniciando-com-php)
 - [Iniciando com Javascript](#iniciando-com-javascript)
-- [Iniciando com Laravel](#iniciando-com-laravel)
-- [Laravel](#laravel)
-- [PHP](#php)
+- [Iniciando com Vue.js](#iniciando-com-vuejs)
+- [Aprendendo Vue CLI](#iniciando-com-vuejscli)
+- [Vue.js documentação oficial](#vuejs)
+- [JavaScript documentação oficial](#js)
 - IDEs
   + [VS Code](#vs-code)
-  + [PhpStorm](#phpstorm)
 - [Ferramentas](#ferramentas)
 - [Mercado de Trabalho](#mercado-de-trabalho)
 
-## Iniciando com PHP
-- [Curso PHP COMPLETO](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) -  Preparando o ambiente, Hello World, Variáveis.
+## Iniciando com Vue.js
+- [Vue.js -  Curso de iniciaçao](https://www.youtube.com/watch?v=fnPXT1z0Ctw&list=PLXik_5Br-zO_xQHAH9GrNR1gAefYWaKxz) - João Ribeiro
+- [Curso de Vue.js](https://www.youtube.com/watch?v=npA_f0ztIt0&list=PLJ_KhUnlXUPteacVhunyK5M8SKIadeED0) - Victor Lima - Guida do Programador
+- [Vue.js em 1 hora! (Teoria e prática)](https://www.youtube.com/watch?v=cSa-SMVMGsE) - Programador a Bordo
+- [Vue.js do jeito ninja](https://www.youtube.com/watch?v=07-TvnH7XNo&list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) - Tiago Matos
+- [Curso completo e gratuito de Vue.js 3 do iniciante ao avançado.](https://www.youtube.com/watch?v=07-TvnH7XNo&list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) - Aprenda a versão 3 do Vue construindo uma aplicação completa oferecido Vue.js Brasil!
 
 ## Iniciando com Javascript
-- [Curso Completo de Javascript](https://www.youtube.com/watch?v=YLVFtKIBCyM&list=PL7ScB28KYHhGq58mpLgIVM8Ias4nap4-o) - Ambiente, Dev Tools e Variáveis.
+- [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
+- [Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Dev Aprender
 
-## Iniciando com Laravel
-- [Laravel do zero](https://www.youtube.com/playlist?list=PL7ScB28KYHhHEC8DGfhDt7WdHe7s6A56J) - Série em andamento que vai mostrar desde a parte teórica, explicando o que é o Laravel, a criação de um novo projeto, repositório no git até o deploy na AWS.
+## Iniciando com VUE CLI https://www.youtube.com/watch?v=Dc-FXsM2oUA
+- [Guia oficial](https://cli.vuejs.org/) - Ferramentas padrão para desenvolvimento Vue.js.
+- [Aula 29 - Vue CLI entendendo cada diretório e arquivo](https://www.youtube.com/watch?v=Dc-FXsM2oUA) - Thiago Matos
  	
-## Laravel
-  - [Documentação do Laravel 8x](https://laravel.com/docs/8.x/installation) - 🇺🇸 Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
-  - [Laravel Helpers de A a Z](https://www.youtube.com/watch?v=5KfpuDNTlaA&list=PL7ScB28KYHhGE9lxkjW0LWPkgoX1yvPC9) - Como trabalhar com cada um dos Helpers do Laravel 7.
+## Vue.js documentação ofical
+  - [Documentação do Vue.js 3](https://v3.vuejs.org/) - Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
+   - [Documentação do Vue.js 2](https://vuejs.org/) - Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
 
-## PHP
-- [ziadoz's PHP Awesome List](https://github.com/ziadoz/awesome-php) - 🇺🇸 Awesome list de coisas relacionadas ao PHP.
+## JavaScript documentação oficial
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - brar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
 
 
 ## IDES
 ### VS CODE
-- [Extensões Recomendadas](https://github.com/icarojobs/vscode-useful-extensions) - Lista de extensões recomendadas por Icaro Jobs.
-
-### PhpStorm
-- [Dicas de PhpStorm](https://youtu.be/ZBrAL_aBvTM?t=766) -  Live Coding: Aumentando sua produtividade.
+- [Extensões Recomendadas](https://medium.com/@deepaksisodiya/top-vs-code-extensions-for-vue-js-development-93cb548baa32) - Lista de extensões recomendadas para desenvolvimento em Vue.
 
  
 ## Ferramentas
-- [Composer](https://www.youtube.com/watch?v=ZBrAL_aBvTM) - Live Coding: Instalando composer 2.0 (Windows).
+- [Webpack]https://webpack.js.org/) - Documentação ofical.
+- [Vetur]https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Página ofical da extensão no Vscode - Extensão importante.
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
-- [Grep App](https://grep.app/) - 🇺🇸 Pesquisa em repositórios.
 
 ## Mercado de Trabalho
-- [Remote | OK ](https://remoteok.io) - 🇺🇸 Vagas para trabalho remoto.
+- [Remote | Presencial ](https://vuejobs.com/) - Vagas para trabalho remoto e presencial para devs Vuejs.
 
  
 # Observações importantes:
   
-* O nosso trabalho é voluntário.  Somos apaixonados por tecnologia, PHP, Laravel (E cerveja! 🍻🍻🍻). Por isso não podemos oferecer suporte sobre o conteúdo deste repositório. Contamos com a sua curiosidade para desbravar o seu conteúdo da mesma maneira que nós fazemos: estudando a documentação disponível, recorrendo ao Google, Discord, grupos no Telegram e WhatsApp.
+* O nosso trabalho é voluntário.  Somos apaixonados por tecnologia, JS, Vue.js e seus ecossistemas. Por isso não podemos oferecer suporte sobre o conteúdo deste repositório. Contamos com a sua curiosidade para desbravar o seu conteúdo da mesma maneira que nós fazemos: estudando a documentação disponível, recorrendo ao Google, Discord, grupos no Telegram e WhatsApp. 😘
+
+Abraços, ✌❤❤👌😉
