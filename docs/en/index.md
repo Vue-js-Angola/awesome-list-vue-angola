@@ -19,15 +19,15 @@ Contact:
 
 ## Content
 
-- [Beginning with Vue.js](#iniciando-com-vuejs)
-- [Beginning with Javascript](#iniciando-com-javascript)
-- [Learning Vue CLI](#iniciando-com-vuejscli)
+- [Beginning with Vue.js](#beginning-with-vuejs)
+- [Beginning with Javascript](#beginning-with-javascript)
+- [Learning Vue CLI](#learning-vuejscli)
 - [Vue.js oficial docs](#vuejs)
 - [JavaScript oficial docs](#js)
 - IDEs
   - [VS Code](#vs-code)
-- [Tools](#ferramentas)
-- [Job market](#mercado-de-trabalho)
+- [Tools](#tools)
+- [Job market](#job-market)
 
 ## Beginning with Vue.js
 
