@@ -22,6 +22,8 @@
 
 ---
 
-Facebook: <https://www.facebook.com/Vue.jsAngola>
-Website: soon... 
+Facebook: <https://www.facebook.com/Vue.jsAngola> \
+Website: soon... \
 Github: <https://github.com/Vue-js-Angola>
+
+&copy; 2021 [Vue-js-Angola](https://github.com/Vue-js-Angola/)
