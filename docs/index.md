@@ -1,5 +1,5 @@
 <div align="center">
- <img  width="400" height="400" src="../img/awesome.jpg" alt="Awesome List Vue.js Angola" title="Awesome List Vue.js Angola">
+ <img  width="400" height="400" src="./img/awesome.jpg" alt="Awesome List Vue.js Angola" title="Awesome List Vue.js Angola">
 </div>
 
 # [Intro-PT](./pt/ "Acesse a pagina em português!")
