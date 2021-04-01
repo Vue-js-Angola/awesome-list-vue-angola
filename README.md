@@ -2,7 +2,7 @@
  <img  width="400" height="400" src="./awesome.jpg" alt="Awesome List Vue.js Angola" title="Awesome List Vue.js Angola">
 </div>
 
-# Intro
+# Introdução
 
 Bem vindo(a) à Awesome Vue.js Angola!!!
 ***Awesome Vue.js Angola*** é um repositório criado com intuito de servir de referências para desenvolvedores Vue.js ou do nosso querido JavaScript. Vamos manter aqui uma seleção de links que podem ser úteis e interessantes pra você.
@@ -17,7 +17,7 @@ Redes Sociais: \
 Contato:
 ✉ brevemente... 😂
 
-## Conteudo
+## Conteúdo
 
 - [Iniciando com Javascript](#iniciando-com-javascript)
 - [Iniciando com Vue.js](#iniciando-com-vuejs)
@@ -42,9 +42,7 @@ Contato:
 - [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Curso em Vídeo
 - [Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Dev Aprender
 
-## Iniciando com VUE CLI
-
-<https://www.youtube.com/watch?v=Dc-FXsM2oUA>
+## Iniciando com Vue CLI
 
 - [Guia oficial](https://cli.vuejs.org/) - Ferramentas padrão para desenvolvimento Vue.js.
 - [Aula 29 - Vue CLI entendendo cada diretório e arquivo](https://www.youtube.com/watch?v=Dc-FXsM2oUA) - Thiago Matos
