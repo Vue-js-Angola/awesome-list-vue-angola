@@ -24,6 +24,7 @@ Contato:
 - [Aprendendo Vue CLI](#iniciando-com-vuejscli)
 - [Vue.js documentação oficial](#vuejs)
 - [JavaScript documentação oficial](#js)
+- [Forum Vue js](https://forum.vuejs.org/)
 - IDEs
   - [VS Code](#vs-code)
 - [Ferramentas](#ferramentas)
