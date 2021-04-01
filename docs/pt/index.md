@@ -1,17 +1,17 @@
 <div align="center">
- <img  width="400" height="400" src="./awesome.jpg" alt="Awesome List Vue.js Angola" title="Awesome List Vue.js Angola">
+ <img  width="400" height="400" src="../img/awesome.jpg" alt="Awesome List Vue.js Angola" title="Awesome List Vue.js Angola">
 </div>
 
 # Intro
 
-Bem vindo(a) à Awesome Vue.js Angola!!!
-***Awesome Vue.js Angola*** é um repositório criado com intuito de servir de referências para desenvolvedores Vue.js ou do nosso querido JavaScript. Vamos manter aqui uma seleção de links que podem ser úteis e interessantes pra você.
+Bem vindo(a) à Awesome Vue.js Angola!!! \
+***Awesome List Vue.js Angola*** é um repositório criado com intuito de servir de referências para desenvolvedores Vue.js ou do nosso querido JavaScript.
+Vamos manter aqui uma seleção de links que podem ser úteis e interessantes pra você. \
+**Contribuições sempre são bem vindas!**
 
-Contribuições sempre são bem-vindas!
-
-Redes Sociais: \
-✔ Facebook: <https://www.facebook.com/Vue.jsAngola> \
-✔ Site: brevemente... 😁 \
+Redes Sociais:
+✔ Facebook: <https://www.facebook.com/Vue.jsAngola>
+✔ Site: brevemente... 😁
 ✔ Github: <https://github.com/Vue-js-Angola>
 
 Contato:
