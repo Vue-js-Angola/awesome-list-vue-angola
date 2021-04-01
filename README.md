@@ -70,7 +70,7 @@ Contato:
 
 ## Mercado de Trabalho
 
-- [Remote Presencial](https://vuejobs.com/) - Vagas para trabalho remoto e presencial para devs Vuejs.
+- [Vue.js Jobs](https://vuejobs.com/) - Vagas para trabalho remoto e presencial para devs Vuejs.
 
 # Observações importantes
 
