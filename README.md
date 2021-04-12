@@ -53,6 +53,9 @@ Contato:
 - [Documentação do Vue.js 3](https://v3.vuejs.org/) - Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
 - [Documentação do Vue.js 2](https://vuejs.org/) - Vale lembrar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
 
+## Ecossistema Vue.js
+- [Vuex](https://next.vuex.vuejs.org/ptbr/) - Gerenciador de estado oficial do Vue.
+
 ## JavaScript documentação oficial
 
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - brar que todos consultam documentação, sempre. Não importa se é Junior ou Senior.
