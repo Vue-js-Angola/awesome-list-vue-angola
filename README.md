@@ -71,6 +71,8 @@ Contato:
 - [Webpack](https://webpack.js.org/) - Documentação ofical.
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Página ofical da extensão no Vscode - Extensão importante.
 - [Responsively browser](https://responsively.app) - Browser para facilitar e agilizar o desenvolvimento responsivo.
+- [Vue.js Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd/ "Auxilia no debugging da página!") - Extensão Chrome. `Demo:`
+![vuejs-devtools-screenshot](./vuejstools.png)
 
 ## Mercado de Trabalho
 
